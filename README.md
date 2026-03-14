@@ -39,9 +39,3 @@ Box plot comparison of entry-level and premium pricing across event segments at 
 | **SQLite** | Local data warehouse for structured queries |
 | **pandas** | Data manipulation and aggregation |
 | **matplotlib** | Visualization |
-
-### Run with Sample Data
-```bash
-python src/generate_sample_data.py
-python src/analyze.py
-```
